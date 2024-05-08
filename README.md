@@ -1,6 +1,6 @@
 Exclusive Wine & Co. 
 
-An ecommerce web application where wine connoisseur can seamlessly find a range of high quality alcohol and spirits to gift their loved ones and executives.
+An ecommerce web application where wine connoisseurs can seamlessly find a range of high quality alcohol and spirits to gift their loved ones and executives.
 In this project, I have used the MERN stack i.e. MongoDB, Express, React.js and Node.js alongside CSS to style. The frontend of the website has been written in React.js while 
 backend has been written in Node.js. MongoDB has been used as the database in order to store the items and login/signup information of the user.
 
