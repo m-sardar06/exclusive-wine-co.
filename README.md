@@ -36,3 +36,5 @@ Installation to be completed (requires Internet)
 the Sidebar
 5. After that type “npm start” in terminal
 6. Now Your Project Will Start In Your Default Web Browser
+
+   I hope you enjoy the web application! :)
